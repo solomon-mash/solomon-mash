@@ -47,7 +47,7 @@ Looking to deepen my expertise in:
 
 ### 🤝 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/solomon-macharia-9a7481270/)  
+- [Linkedin](https://www.linkedin.com/in/solomon-macharia-9a7481270/)  
 - Open to collaborations on mobile app development, web development and data science projects. Feel free to reach out!
 
 ---
