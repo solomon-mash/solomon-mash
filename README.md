@@ -6,7 +6,7 @@ I'm a developer with a passion for building automated solutions, mobile apps, hi
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages & Frameworks**: Python, Dart (Flutter), JavaScript (React.js), SQL
+- **Languages & Frameworks**: Python, Dart (Flutter), JavaScript, React.js, Express js, SQL
 - **Tools & Technologies**: Firebase, GitHub, SQL Workbench, VsCode
 - **Core Skills**:
   - 📱 Mobile Development (Flutter)
@@ -21,8 +21,8 @@ I'm a developer with a passion for building automated solutions, mobile apps, hi
 - **Flutter Media Player App**  
   An all-in-one media player app with features like video and audio player, automatic video and audio retrieval, and thumbnail previews. Built to handle local media files efficiently, using Flutter packages **video_player** and **flick_video_player** for seamless playback.
 
-- **Devotional App**  
-  An application that makes use of Firebase (cloud firestore) database to store information that is used by the app. The application can also be modified to serve as a church application to pass communication, announcements and even provide live links to church proceedings.
+- **Personal Portfolio Website**  
+The website is built using React, CSS, and Django, combining a sleek and interactive frontend with a robust backend. The React-powered UI ensures a smooth user experience, styled with custom CSS for a modern and responsive design. On the backend, Django manages project data, user authentication, and dynamic content updates. This site showcases my skills, projects and experience.
 
 - **Ecommerce Application**  
   An Ecommerce application developed using django framework and incorporates all functionalities that are required in an online shopping application.
@@ -32,7 +32,7 @@ I'm a developer with a passion for building automated solutions, mobile apps, hi
 ### 🚀 Currently Learning
 
 I'm continually working on:
-- 🌐 Front-end development with **React.js**
+- 🌐 Front-end development with **React.js** and **Typescript js**
 - 🤖 Chatbot development using **Python** for offline, industry-specific use
 
 ---
