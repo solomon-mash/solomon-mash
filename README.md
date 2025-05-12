@@ -1,5 +1,10 @@
 # Hi there! 👋 I'm Solomon Macharia
-
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile&size=30">
+  </a>
+</h1>
+<br />
 I'm a developer with a passion for building automated solutions, mobile apps, high quality websites and responsive web applications. I bring a unique mix of skills, blending **Flutter**, **Python**, **HTML**, **Css**, and **Javascript**. Currently diving into **React.js** to expand my front-end skills!
 
 ---
