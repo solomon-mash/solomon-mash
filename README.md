@@ -44,9 +44,16 @@ Looking to deepen my expertise in:
 - Enhancing data science skills for analytical projects
 
 ---
+## GitHub Stats:
 
+<p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomon-mash&show_icons=true&locale=en&layout=compact" alt="Solomon Macharia" /></p>
+
+<p>&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=solomon-mash&show_icons=true&locale=en" alt=Solomon Macharia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats-nine-sable.vercel.app/?user=solomon-mash&" alt="Solomon Macharia" width="70%"/></p>
+
+---
 ### 🤝 Let’s Connect!
-
 - [Linkedin](https://www.linkedin.com/in/solomon-macharia-9a7481270/)  
 - Open to collaborations on mobile app development, web development and data science projects. Feel free to reach out!
 
